@@ -1,2 +1,1 @@
 # ZeroJudge
-## Hello World
